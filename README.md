@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -31,7 +30,7 @@ public class Mohanaprasath {
 }
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -83,7 +82,7 @@ public class Mohanaprasath {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
 </p>
 
----
+
 
 ## 🏆 Featured Projects
 
@@ -98,8 +97,6 @@ A fully-featured social platform where book lovers can **discover, review, and d
 - ☁️ Cloud-based image upload with **CDN delivery** & auto URL generation
 - 🚀 Deployed on **Oracle Cloud VM** (backend) & **Vercel** (frontend)
 
----
-
 ### 🚗 Car Resell Value Predictor
 > *Python · Flask · Pandas · Scikit-learn · HTML · CSS*
 
@@ -109,7 +106,6 @@ A machine learning web application to predict **car resale prices** based on rea
 - 🖥️ Interactive frontend for seamless user input & result display
 - 🔢 Multi-parameter analysis for reliable market estimates
 
----
 
 ## 💼 Experience
 
@@ -122,7 +118,6 @@ A machine learning web application to predict **car resale prices** based on rea
 - Integrated UI with backend logic using **Python & Qt Creator**
 - Enabled multi-factor authentication with dynamic UI interactions
 
----
 
 ## 🎓 Education
 
@@ -131,7 +126,6 @@ A machine learning web application to predict **car resale prices** based on rea
 | **MCA** (Master of Computer Applications) | Guru Nanak College, Chennai | 8.4 | 2023 – 2025 |
 | **B.Sc., Computer Science** | Hindustan College of Arts & Science, Chennai | 7.8 | 2020 – 2023 |
 
----
 
 ## 📊 GitHub Stats
 
@@ -149,7 +143,6 @@ A machine learning web application to predict **car resale prices** based on rea
 
 </div>
 
----
 
 ## 🏅 Trophies
 
@@ -157,27 +150,15 @@ A machine learning web application to predict **car resale prices** based on rea
   <img src="https://github-profile-trophy.vercel.app?username=mohan6623&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan6623&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
-
-> **Setup required:** Add the [Platane/snk workflow](https://github.com/Platane/snk) to your `mohan6623` repo and run it once to generate the SVG.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohan6623/mohan6623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
 </div>
 
----
-
 <div align="center">
+
 
 ### 💡 *"First, solve the problem. Then, write the code."*
 
