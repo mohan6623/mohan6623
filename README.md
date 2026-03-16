@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohanaprasath S
+# Hi, I'm Mohanaprasath S
 
 ### Aspiring Backend Developer · Full-Stack Enthusiast · Cloud Explorer
 
@@ -14,7 +14,7 @@
 </div>
 
 
-## 🚀 About Me
+## About Me
 
 ```java
 public class Mohanaprasath {
@@ -32,9 +32,9 @@ public class Mohanaprasath {
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
   &nbsp;
@@ -49,7 +49,7 @@ public class Mohanaprasath {
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" title="CSS" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot" />
   &nbsp;
@@ -60,7 +60,7 @@ public class Mohanaprasath {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React" />
 </p>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
@@ -71,7 +71,7 @@ public class Mohanaprasath {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
   &nbsp;
@@ -84,30 +84,36 @@ public class Mohanaprasath {
 
 
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 📚 Book Forum — Full-Stack Social Platform
+### Book Forum — Full-Stack Social Platform
 > *Spring Boot · React · TypeScript · PostgreSQL · OAuth2 · Docker*
 
 A fully-featured social platform where book lovers can **discover, review, and discuss books** together.
 
-- 🔐 JWT authentication with refresh tokens & **OAuth2** (Google / GitHub)
-- 📧 Email verification & password reset flows
-- 🛡️ Role-based access control with rate limiting (Caffeine)
-- ☁️ Cloud-based image upload with **CDN delivery** & auto URL generation
-- 🚀 Deployed on **Oracle Cloud VM** (backend) & **Vercel** (frontend)
+- JWT authentication with refresh tokens & **OAuth2** (Google / GitHub)
+- Email verification & password reset flows
+- Role-based access control with rate limiting (Caffeine)
+- Cloud-based image upload with **CDN delivery** & auto URL generation
+- Deployed on **Oracle Cloud VM** (backend) & **Vercel** (frontend)
 
+<<<<<<< Updated upstream
 ### 🚗 Car Resell Value Predictor
+=======
+---
+
+### Car Resell Value Predictor
+>>>>>>> Stashed changes
 > *Python · Flask · Pandas · Scikit-learn · HTML · CSS*
 
 A machine learning web application to predict **car resale prices** based on real-world parameters.
 
-- 📊 Pre-trained **Linear Regression** model for accurate price predictions
-- 🖥️ Interactive frontend for seamless user input & result display
-- 🔢 Multi-parameter analysis for reliable market estimates
+- Pre-trained **Linear Regression** model for accurate price predictions
+- Interactive frontend for seamless user input & result display
+- Multi-parameter analysis for reliable market estimates
 
 
-## 💼 Experience
+## Experience
 
 **eSilicon Labs** — *Software Developer Intern* `May 2024 – Jun 2024 · Chennai`
 
@@ -119,7 +125,7 @@ A machine learning web application to predict **car resale prices** based on rea
 - Enabled multi-factor authentication with dynamic UI interactions
 
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | GPA | Year |
 |--------|------------|-----|------|
@@ -127,7 +133,7 @@ A machine learning web application to predict **car resale prices** based on rea
 | **B.Sc., Computer Science** | Hindustan College of Arts & Science, Chennai | 7.8 | 2020 – 2023 |
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -144,14 +150,26 @@ A machine learning web application to predict **car resale prices** based on rea
 </div>
 
 
-## 🏅 Trophies
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mohan6623&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
+<<<<<<< Updated upstream
+=======
+---
 
-## 🐍 Contribution Snake
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan6623&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+>>>>>>> Stashed changes
+
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohan6623/mohan6623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
@@ -159,11 +177,15 @@ A machine learning web application to predict **car resale prices** based on rea
 
 <div align="center">
 
+<<<<<<< Updated upstream
 
 ### 💡 *"First, solve the problem. Then, write the code."*
+=======
+### *"First, solve the problem. Then, write the code."*
+>>>>>>> Stashed changes
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohan6623&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-⭐ *If you find my work interesting, consider giving a star to my repos!*
+*If you find my work interesting, consider giving a star to my repos!*
 
 </div>
