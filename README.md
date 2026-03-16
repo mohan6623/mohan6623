@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -31,7 +30,6 @@ public class Mohanaprasath {
 }
 ```
 
----
 
 ## 🛠️ Tech Stack
 
@@ -87,8 +85,6 @@ public class Mohanaprasath {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ### Book Forum — Full-Stack Social Platform
@@ -103,7 +99,6 @@ A social platform for book lovers to discover, review, and discuss books.
 - Cloud-based image upload with **CDN delivery** & auto URL generation
 - Deployed on **Oracle Cloud VM** (backend) & **Vercel** (frontend)
 
----
 
 ### Car Resell Value Predictor
 
@@ -115,7 +110,6 @@ A machine learning web app to predict car resale prices based on real-world para
 - Interactive frontend for user input & result display
 - Multi-parameter analysis for reliable market estimates
 
----
 
 ## 💼 Experience
 
@@ -128,7 +122,6 @@ A machine learning web app to predict car resale prices based on real-world para
 - Integrated UI with backend logic using Python & Qt Creator
 - Enabled multi-factor authentication with dynamic UI interactions
 
----
 
 ## 🎓 Education
 
@@ -137,7 +130,7 @@ A machine learning web app to predict car resale prices based on real-world para
 | **MCA** — Master of Computer Applications | Guru Nanak College, Chennai | 8.4 | 2023 – 2025 |
 | **B.Sc., Computer Science** | Hindustan College of Arts & Science, Chennai | 7.8 | 2020 – 2023 |
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -151,7 +144,6 @@ A machine learning web app to predict car resale prices based on real-world para
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan6623&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
----
 
 ## 🏆 Trophies
 
@@ -159,7 +151,6 @@ A machine learning web app to predict car resale prices based on real-world para
   <img src="https://github-profile-trophy.vercel.app?username=mohan6623&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
----
 
 ## 📈 Activity Graph
 
@@ -167,7 +158,6 @@ A machine learning web app to predict car resale prices based on real-world para
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan6623&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
----
 
 ## Contribution Snake
 
@@ -175,7 +165,6 @@ A machine learning web app to predict car resale prices based on real-world para
   <img src="https://raw.githubusercontent.com/mohan6623/mohan6623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
 
 <div align="center">
 
