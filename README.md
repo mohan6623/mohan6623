@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohanaprasath S
+# 👋 Hi, I'm Mohanaprasath S
 
 ### Aspiring Backend Developer · Full-Stack Enthusiast · Cloud Explorer
 
