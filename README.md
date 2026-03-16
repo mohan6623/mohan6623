@@ -13,28 +13,30 @@
 
 </div>
 
+---
 
-## About Me
+## 👨‍💻 About Me
 
 ```java
 public class Mohanaprasath {
 
     String name        = "Mohanaprasath S";
     String role        = "Backend Developer";
-    String location    = "Chennai, India 🇮🇳";
+    String location    = "Chennai, India";
     String education   = "MCA @ Guru Nanak College (8.4 GPA)";
 
     String[] currentlyLearning  = {"System Design", "AWS", "Spring Security"};
     String[] askMeAbout         = {"Java", "Spring Boot", "REST APIs", "PostgreSQL"};
-    String funFact              = "I debug with System.out.println and I'm not ashamed 😄";
+    String funFact              = "I debug with System.out.println and I'm not ashamed.";
 }
 ```
 
+---
 
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" />
   &nbsp;
@@ -50,6 +52,7 @@ public class Mohanaprasath {
 </p>
 
 ### Frameworks & Libraries
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" title="Spring Boot" />
   &nbsp;
@@ -61,6 +64,7 @@ public class Mohanaprasath {
 </p>
 
 ### Databases & Cloud
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
@@ -72,6 +76,7 @@ public class Mohanaprasath {
 </p>
 
 ### Tools & Platforms
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git" />
   &nbsp;
@@ -82,14 +87,15 @@ public class Mohanaprasath {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" />
 </p>
 
+---
 
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Book Forum — Full-Stack Social Platform
+
 > *Spring Boot · React · TypeScript · PostgreSQL · OAuth2 · Docker*
 
-A fully-featured social platform where book lovers can **discover, review, and discuss books** together.
+A social platform for book lovers to discover, review, and discuss books.
 
 - JWT authentication with refresh tokens & **OAuth2** (Google / GitHub)
 - Email verification & password reset flows
@@ -97,95 +103,84 @@ A fully-featured social platform where book lovers can **discover, review, and d
 - Cloud-based image upload with **CDN delivery** & auto URL generation
 - Deployed on **Oracle Cloud VM** (backend) & **Vercel** (frontend)
 
-<<<<<<< Updated upstream
-### 🚗 Car Resell Value Predictor
-=======
 ---
 
 ### Car Resell Value Predictor
->>>>>>> Stashed changes
+
 > *Python · Flask · Pandas · Scikit-learn · HTML · CSS*
 
-A machine learning web application to predict **car resale prices** based on real-world parameters.
+A machine learning web app to predict car resale prices based on real-world parameters.
 
-- Pre-trained **Linear Regression** model for accurate price predictions
-- Interactive frontend for seamless user input & result display
+- Pre-trained Linear Regression model for accurate price predictions
+- Interactive frontend for user input & result display
 - Multi-parameter analysis for reliable market estimates
 
+---
 
-## Experience
+## 💼 Experience
 
-**eSilicon Labs** — *Software Developer Intern* `May 2024 – Jun 2024 · Chennai`
+**eSilicon Labs** — *Software Developer Intern* &nbsp; `May 2024 – Jun 2024 · Chennai`
 
 > Qt Creator · QML · Qt Designer · Python
 
 - Developed **15 core UI modules** in QML for an Embedded Access Control System
 - Built responsive interfaces optimized for **low-resource embedded systems**
-- Integrated UI with backend logic using **Python & Qt Creator**
+- Integrated UI with backend logic using Python & Qt Creator
 - Enabled multi-factor authentication with dynamic UI interactions
 
+---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | GPA | Year |
-|--------|------------|-----|------|
-| **MCA** (Master of Computer Applications) | Guru Nanak College, Chennai | 8.4 | 2023 – 2025 |
+|--------|-------------|-----|------|
+| **MCA** — Master of Computer Applications | Guru Nanak College, Chennai | 8.4 | 2023 – 2025 |
 | **B.Sc., Computer Science** | Hindustan College of Arts & Science, Chennai | 7.8 | 2020 – 2023 |
 
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=mohan6623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan6623&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-
 </div>
 
 <div align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan6623&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-
 </div>
 
+---
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mohan6623&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
-<<<<<<< Updated upstream
-=======
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan6623&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
->>>>>>> Stashed changes
 
 ## Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohan6623/mohan6623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark)" />
+  <img src="https://raw.githubusercontent.com/mohan6623/mohan6623/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+---
 
 <div align="center">
 
-<<<<<<< Updated upstream
-
-### 💡 *"First, solve the problem. Then, write the code."*
-=======
-### *"First, solve the problem. Then, write the code."*
->>>>>>> Stashed changes
+*"First, solve the problem. Then, write the code."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohan6623&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-*If you find my work interesting, consider giving a star to my repos!*
 
 </div>
