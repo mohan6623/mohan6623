@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanaprasath-s6623)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanaprasath6623@gmail.com)
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mohanaprasath66)
-[![Discord](https://img.shields.io/static/v1?message=marvalousmohan&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/marvalousmohan/)
+[![Twitter/X](https://img.shields.io/static/v1?message=Twitter%2FX&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mohanaprasath66)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/marvalousmohan/)
 
 </div>
 
