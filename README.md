@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanaprasath-s6623)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanaprasath6623@gmail.com)
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/mohanaprasath66)
+[![Discord](https://img.shields.io/static/v1?message=marvalousmohan&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/marvalousmohan/)
 
 </div>
 
@@ -24,9 +24,9 @@ public class Mohanaprasath {
     String location    = "Chennai, India";
     String education   = "MCA @ Guru Nanak College (8.4 GPA)";
 
-    String[] currentlyLearning  = {"System Design", "AWS", "Spring Security"};
+    String[] currentlyLearning  = {"System Design", "DSA", "Agentic AI", "Cloud Native"};
     String[] askMeAbout         = {"Java", "Spring Boot", "REST APIs", "PostgreSQL"};
-    String funFact              = "I debug with System.out.println and I'm not ashamed.";
+    String funFact              = "I speak Java more fluently than my native tongue (almost).";
 }
 ```
 
@@ -89,6 +89,7 @@ public class Mohanaprasath {
 
 ### Book Forum — Full-Stack Social Platform
 
+> **[Frontend](https://github.com/mohan6623/Book-Forum) | [Backend](https://github.com/mohan6623/BookApi)**
 > *Spring Boot · React · TypeScript · PostgreSQL · OAuth2 · Docker*
 
 A social platform for book lovers to discover, review, and discuss books.
